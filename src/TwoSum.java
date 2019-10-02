@@ -1,3 +1,6 @@
 public class TwoSum {
-    public stat
+    public static void main(String[] args)
+    {
+
+    }
 }
